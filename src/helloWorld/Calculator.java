@@ -14,5 +14,9 @@ public class Calculator {
         return first + second;
     }
 
+    public int sub() {
+        return first - second;
+    }
+
 
 }
