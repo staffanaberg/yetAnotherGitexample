@@ -21,5 +21,8 @@ public class Calculator {
         return first - second;
     }
 
+    public int div() {
+        return first/second;
+    }
 
 }
