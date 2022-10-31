@@ -24,5 +24,9 @@ public class Calculator {
     public int div() {
         return first/second;
     }
+    
+    public int reverseSub() {
+        return second - first;
+    }
 
 }
